@@ -1,6 +1,8 @@
 ---
 layout: page
 ---
+# Beyondoor
+
 ## Beyondoor Model BY-2400-05-03-868MHZ
 
 I ended up with a couple free samples of these antennae from Jiaxing Beyondoor
@@ -21,7 +23,9 @@ at 868 MHz. Sample #1 didn't fare so well with SWR just over 3, not ideal,
 as the reflected power has potential to damage more sensitive transmitters.
 
 Sample #1 could possibly by hand tuned for a better SWR. The local suppliers
-price for this antenna was about 4€ including the 24% VAT. 
+price for this antenna was about 4€ including the 24% VAT. It's a reasonable price
+but if my samples are any indication of the typical measurements, then the
+datasheet for this model is a little too optimistic.
 
 [Datasheet](img/BY-2400-05-03-868MHZ.pdf)
 
